@@ -16,8 +16,8 @@ Unity2021.3.5f1
 
 ServerToClient (ServerToClient Folder)
 
-![image](https://github.com/kairaun/MocapWithUnity/blob/main/pic/1.png)  
+![image](https://github.com/kairaun/Unity-object-control-with-mobile-device/tree/main/pic/Server.jpg)  
 
 ClientToServer (ClientToServer.unitypackage)
 
-![image](https://github.com/kairaun/MocapWithUnity/blob/main/pic/2.png)  
+![image](https://github.com/kairaun/Unity-object-control-with-mobile-device/tree/main/pic/Client.jpg)  
